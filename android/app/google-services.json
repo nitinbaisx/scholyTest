@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "677843952085",
+    "project_id": "schooly-b6294",
+    "storage_bucket": "schooly-b6294.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677843952085:android:10c173aab7e2309a801d5c",
+        "android_client_info": {
+          "package_name": "com.example.schooly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677843952085-8e7omb2drf6tpj0m5g9bgrkhgcbpvu9q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.schooly",
+            "certificate_hash": "30cc6bef2418edee4e1603385860cb5219b15828"
+          }
+        },
+        {
+          "client_id": "677843952085-v3kan5nhcqv272vhkfc3f5qeocdujdcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqQnDTfKwrULfP8Mu-0G4gSk1_h-TWmm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677843952085-v3kan5nhcqv272vhkfc3f5qeocdujdcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
